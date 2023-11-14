@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8bBSQM6od5dEjvhxrBZTTpbXJFS/yb8zfuh8n1XMk7U=",
+  "Source": "NoviApp.API",
+  "BasePath": "_content/NoviApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

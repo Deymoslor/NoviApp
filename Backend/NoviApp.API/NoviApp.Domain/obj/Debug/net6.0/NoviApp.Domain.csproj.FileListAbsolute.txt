@@ -1,0 +1,11 @@
+E:\planDeInvierno\angularProjects\NoviApp\Backend\NoviApp.API\NoviApp.Domain\bin\Debug\net6.0\NoviApp.Domain.deps.json
+E:\planDeInvierno\angularProjects\NoviApp\Backend\NoviApp.API\NoviApp.Domain\bin\Debug\net6.0\NoviApp.Domain.dll
+E:\planDeInvierno\angularProjects\NoviApp\Backend\NoviApp.API\NoviApp.Domain\bin\Debug\net6.0\NoviApp.Domain.pdb
+E:\planDeInvierno\angularProjects\NoviApp\Backend\NoviApp.API\NoviApp.Domain\obj\Debug\net6.0\NoviApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\planDeInvierno\angularProjects\NoviApp\Backend\NoviApp.API\NoviApp.Domain\obj\Debug\net6.0\NoviApp.Domain.AssemblyInfoInputs.cache
+E:\planDeInvierno\angularProjects\NoviApp\Backend\NoviApp.API\NoviApp.Domain\obj\Debug\net6.0\NoviApp.Domain.AssemblyInfo.cs
+E:\planDeInvierno\angularProjects\NoviApp\Backend\NoviApp.API\NoviApp.Domain\obj\Debug\net6.0\NoviApp.Domain.csproj.CoreCompileInputs.cache
+E:\planDeInvierno\angularProjects\NoviApp\Backend\NoviApp.API\NoviApp.Domain\obj\Debug\net6.0\NoviApp.Domain.dll
+E:\planDeInvierno\angularProjects\NoviApp\Backend\NoviApp.API\NoviApp.Domain\obj\Debug\net6.0\refint\NoviApp.Domain.dll
+E:\planDeInvierno\angularProjects\NoviApp\Backend\NoviApp.API\NoviApp.Domain\obj\Debug\net6.0\NoviApp.Domain.pdb
+E:\planDeInvierno\angularProjects\NoviApp\Backend\NoviApp.API\NoviApp.Domain\obj\Debug\net6.0\ref\NoviApp.Domain.dll
