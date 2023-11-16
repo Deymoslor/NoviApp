@@ -8,13 +8,13 @@ namespace NoviApp.Domain.Entities
 {
     public class User
     {
-        public int Id_user { get; set; }
-        public int user_name1 { get; set; }
-        public int user_name2 { get; set; }
-        public int user_lastName1 { get; set; }
-        public int user_lastName2 { get; set; }
-        public int email { get; set; }
-        public int user_password { get; set; }
-        public int phoneNumber { get; set; }
+        public int IdUser { get; set; }
+        public string UserName1 { get; set; } = null!;
+        public string? UserName2 { get; set; }
+        public string UserLastName1 { get; set; } = null!;
+        public string? UserLastName2 { get; set; }
+        public string? Email { get; set; }
+        public string? UserPassword { get; set; }
+        public string? PhoneNumber { get; set; }
     }
 }

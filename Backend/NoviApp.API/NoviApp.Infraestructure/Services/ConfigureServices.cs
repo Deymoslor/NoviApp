@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using MediatR;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using NoviApp.Application.Interfaces;
@@ -19,7 +21,6 @@ namespace NoviApp.Infraestructure.Services
             {
                 options.UseSqlServer(configuration.GetConnectionString("dylanCadena"));
             });
-
 
             services.AddScoped<IApplicationDbContext, NoviAppContext>();
 

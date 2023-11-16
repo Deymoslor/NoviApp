@@ -1,17 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace NoviApp.API.Configurations
+namespace NoviApp.Application.Dtos.Users
 {
-    public partial class User
+    public class UserDto
     {
-        public int IdUser { get; set; }
         public string UserName1 { get; set; } = null!;
         public string? UserName2 { get; set; }
         public string UserLastName1 { get; set; } = null!;
         public string? UserLastName2 { get; set; }
-        public string? Email { get; set; }
-        public string? UserPassword { get; set; }
+        public string? Email { get; set; } = null!;
+        public string? UserPassword { get; set; } = null!;
         public string? PhoneNumber { get; set; }
     }
 }
